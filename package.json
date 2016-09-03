@@ -1,0 +1,19 @@
+{
+  "name": "@justinc/dirs-as-promised",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap --cov test/**/*.test.js",
+    "test-report": "npm test -- --coverage-report=lcov"
+  },
+  "keywords": [],
+  "author": "Justin Calleja <calleja.justin@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^7.0.0"
+  }
+}
