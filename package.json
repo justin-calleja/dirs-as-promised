@@ -1,7 +1,7 @@
 {
   "name": "@justinc/dirs-as-promised",
   "version": "1.0.0",
-  "description": "",
+  "description": "Read directory names given absolute path",
   "main": "src/index.js",
   "directories": {
     "test": "test"
