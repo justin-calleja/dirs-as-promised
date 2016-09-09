@@ -10,10 +10,18 @@
     "test": "tap --cov test/**/*.test.js",
     "test-report": "npm test -- --coverage-report=lcov"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-calleja/dirs-as-promised.git"
+  },
   "keywords": [],
   "author": "Justin Calleja <calleja.justin@gmail.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-calleja/dirs-as-promised/issues"
+  },
   "devDependencies": {
     "tap": "^7.0.0"
-  }
+  },
+  "homepage": "https://github.com/justin-calleja/dirs-as-promised#readme"
 }
